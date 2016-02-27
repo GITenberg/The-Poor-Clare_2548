@@ -1,0 +1,30 @@
+_repo: The-Poor-Clare_2548
+creator:
+  author:
+    agent_name: Gaskell, Elizabeth Cleghorn
+    aliases:
+    - Gaskell, Elizabeth Cleghorn Stevenson
+    - Mills, Cotton Mather
+    - Gaskell, E. C. (Elizabeth Cleghorn)
+    - Gaskell, Mrs.
+    - Stevenson, Elizabeth
+    birthdate: 1810
+    deathdate: 1865
+    gutenberg_agent_id: '220'
+    url: http://www.gutenberg.org/2009/agents/220
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Gaskell
+description: ''
+gutenberg_issued: '2001-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2548'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Horror tales, English'
+title: The Poor Clare
+url: http://www.gutenberg.org/ebooks/2548
